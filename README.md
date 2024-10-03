@@ -44,20 +44,6 @@ La página web deberá visualizarse:
 
 ![img6](./img/img_6.png)
 
-
-````
-#cabecera {
-  padding: 2em;
-  width:100%;  
-  height:2em;
-  background-color:#ffee00;
-  color:#0000aa;
-  text-align:center;
-  font-family:Times New Roman;
-  font-size:2em;
-  font-weight:bold;
-````
-
 7. Mostrar tres párrafos pintando su fondo, utilizar distintas sintaxis para inicializar el color de la propiedad background-color. https://www.w3schools.com/css/css_colors.asp  Un ejemplo de visualización:
 
 ![img7](./img/img_7.png)
